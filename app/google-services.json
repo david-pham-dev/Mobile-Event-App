@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816505212600",
+    "project_id": "mobiletechassignment-d9327",
+    "storage_bucket": "mobiletechassignment-d9327.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816505212600:android:bd24ef3305fddd38b32e4d",
+        "android_client_info": {
+          "package_name": "com.example.mobiletechassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoFdjBjyZ7K2sBBzpuigaGCVIbgTG79OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

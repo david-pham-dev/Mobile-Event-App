@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MobileTechAssignment</string>
+    <string-array name="location_array">
+        <item>Select a location</item>
+        <item>Library</item>
+        <item>UC Hub</item>
+        <item>Refectory</item>
+        <item>Building 6</item>
+        <item>UC Lodge</item>
+        <item>Current Location</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
