@@ -2,12 +2,12 @@
 
 ## Description
 Final Assignment for Mobile Technology Unit at University of Canberra
--
-Creating a mobile application integrating with Google services, Firebase database to store, display events' information and mapping locations.
+
+- Creating a mobile application integrating with Google services, Firebase database to store, display events' information and mapping locations.
 ---
-#Languages, Framework
--
-Java, FirebaseDatabase, GoogleAPIs.
+# Languages, Framework
+
+- Java, FirebaseDatabase, GoogleAPIs.
 ---
 
 ## Feature
@@ -19,7 +19,11 @@ Outstanding Features
 - Filling, Storing and Loading Event Data using Firebase Database
 ---
 ![Map](images/MobileTech-EntryAPI.png)
-
-1. Clone the repository:
+---
+## Clone the repository:
    ```bash
    git clone https://github.com/david-pham-dev/Mobile-Event-App.git
+```
+
+## Running the app
+- Give Android Studio few moments to install necessary packages, and click "Run Project"
